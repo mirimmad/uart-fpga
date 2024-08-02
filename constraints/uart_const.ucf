@@ -1,0 +1,8 @@
+
+NET "clk" LOC = "V10";
+NET "uart_rx" LOC = "K14"; 
+NET "uart_tx" LOC = "L12";
+NET "led[0]" LOC = "E13";
+NET "led[1]" LOC = "C14";
+NET "led[2]" LOC = "C4";
+NET "led[3]" LOC = "A4";
