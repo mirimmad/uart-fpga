@@ -1,4 +1,4 @@
-
+// The constraints are for Xilinx Spartan SP601 Evaluation board
 NET "clk" LOC = "V10";
 NET "uart_rx" LOC = "K14"; 
 NET "uart_tx" LOC = "L12";
